@@ -2,6 +2,14 @@
   color: rgb(61, 7, 163);
 }
 
-#questions, #answers {
+#questions, #answers, .container {
   margin-top: 5vh;
+}
+
+#answers {
+  display: none;
+}
+
+span {
+  font-style: italic;
 }
