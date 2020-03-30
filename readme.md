@@ -1,4 +1,4 @@
-# _Favorite Kittens_
+# [_Favorite Kittens_](https://k8thedinosaur.github.io/favorite-things/)
 
 #### _HTML/CSS/JS exercise for Epicodus, 3/30/20_
 
