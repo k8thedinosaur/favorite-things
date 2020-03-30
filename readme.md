@@ -1,6 +1,6 @@
 # _Favorite Kittens_
 
-#### _HTML/CSS/JS exercise for Epicodus, 3/24/20_
+#### _HTML/CSS/JS exercise for Epicodus, 3/30/20_
 
 #### By _**Kate Farkas**_
 
