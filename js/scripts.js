@@ -9,8 +9,9 @@ $(document).ready(function() {
 var catAnswers = [$("input#cat-type").val(),
     $("input#cat-part").val(),
     $("input#cat-color").val()];
-
     console.log(catAnswers);
+
+    
   
     event.preventDefault();
   })

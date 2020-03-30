@@ -1,0 +1,7 @@
+* {
+  color: rgb(61, 7, 163);
+}
+
+#questions, #answers {
+  margin-top: 5vh;
+}
